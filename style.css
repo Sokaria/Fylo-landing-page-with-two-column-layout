@@ -312,9 +312,9 @@ footer .laa .row .item-4 a:hover{
 @media (max-width:375px){
     header .head{
         height: 10vh;
-        width: 320px;
+        width: 280px;
         justify-content: space-between;
-        gap: 60px;
+        gap: 0px;
     }
     header .head img{
         width: 70px;
